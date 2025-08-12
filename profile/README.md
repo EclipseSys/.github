@@ -18,11 +18,12 @@ Website linky: https://onevm.eu/
 
 ## 📂 Projects
 
-| Project | Description | Status | | Open Sourced? |
-|--------|-------------|--------|--------|
-| `/dashboard` | ~~Minimalist~~ control panel for Minecraft servers. | ✅ Actively used | :x: No |
-| `/support` | AI Support bot for OneVM. | 🧪 Experimental | ✅ Yes|
-| `/wings` | Custom wings for pelican panel. | 🔧 In progress | :x: No |
+| Project      | Description                                | Status           | Open Sourced? |
+|--------------|--------------------------------------------|------------------|----------------|
+| `/dashboard` | Minimalist control panel for Minecraft servers | ✅ Actively used | ❌ No          |
+| `/support`   | AI support bot for OneVM                   | 🧪 Experimental   | ✅ Yes         |
+| `/wings`     | Custom wings for Pelican Panel             | 🔧 In progress    | ❌ No          |
+
 
 ---
 
