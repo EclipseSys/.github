@@ -23,6 +23,7 @@ Website linky: https://onevm.eu/
 | `/dashboard` | Minimalist control panel for Minecraft servers | ✅ Actively used | ❌ No          |
 | `/support`   | AI support bot for OneVM                   | 🧪 Experimental   | ✅ Yes         |
 | `/wings`     | Custom wings for Pelican Panel             | 🔧 In progress    | ❌ No          |
+| `/servermotd`| Offline server motd for servers!           | ❌ Deprecated    | ✅ Yes          |
 
 
 ---
