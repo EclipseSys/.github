@@ -1,9 +1,7 @@
-# Hey there! I'm Noname — and I host Minecraft servers for fun.
+# Hey there! I'm Noname - Founder of Eclipse Systems
 
 Welcome to my little corner of GitHub! 
-I run Minecraft servers as a hobby, modding experiments, and the occasional chaotic survival world. If you're into tinkering, building, or just love the blocky life, you're in good company.
-
-Website linky: https://onevm.eu/
+I run home server as a hobby, modding experiments, and the occasional chaotic survival world. If you're into tinkering, building, or just love the blocky life, you're in good company.
 
 ---
 
