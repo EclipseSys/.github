@@ -1,45 +1,34 @@
-# Hey there! I'm Noname - Founder of Eclipse Systems
+:sparkles: Free VPS That Actually Exists™️ by EclipseSystems
 
-Welcome to my little corner of GitHub! 
-I run home server as a hobby, modding experiments, and the occasional chaotic survival world. If you're into tinkering, building, or just love the blocky life, you're in good company.
+Yes, you read that right. No, it’s not a trap. (Atleast for now)
 
----
+No, we don’t want your credit card. No, we won’t ask for your blood type. 
 
-## 🛠️ What I’m Working On
+Just bring your own IPs and SSH keys, and we’ll hand you a VPS like it’s candy on Halloween. :candy:
 
-- 🧩 **Server Hosting** — Playing with Paper, Purpur, Leaf.
-- 🖥️ **Lightweight Control Panel** — A simple Dashboard to manage servers.
-- 🤖 **Discord Bots** — For support and fun commands.
-- 🧪 **Performance Tweaks** — Always experimenting with JVM flags and server configs.
+Get your zero-dollar VPS now (We double-checked the math. Still 0$)
 
----
+Passwords? Ewwww. That’s so 1995. We use SSH keys like civilized beings. 
 
-## 📂 Projects
+Specs that slap:
 
-| Project      | Description                                | Status           | Open Sourced? |
-|--------------|--------------------------------------------|------------------|----------------|
-| `/dashboard` | Minimalist control panel for Minecraft servers | ✅ Actively used | ❌ No          |
-| `/support`   | AI support bot for OneVM                   | 🧪 Experimental   | ✅ Yes         |
-| `/wings`     | Custom wings for Pelican Panel             | 🔧 In progress    | ❌ No          |
-| `/servermotd`| Offline server motd for servers!           | ❌ Deprecated    | ✅ Yes          |
+Dedicated 2–4GB DDR4 REG ECC 2400MHz RAM (ECC, cause we care about your bits)
 
+100GB of dedicated storage (not shared with our cat pics storage)
 
----
+6 shared vCores (they play nice)
 
-## 💬 Why I Do This
+Website link: 
 
-Because it's fun!
-Because Minecraft is endlessly creative. And because there's something satisfying about keeping a server alive..
+https://vps.eclipsesystems.top
 
----
+Discord:
 
-## 📫 Reach Out
+https://discord.gg/SDM8jkGVYx
 
-Want to chat Minecraft, share mods, or ask about my setup or help with hosting?
+> **Disclaimer**: If you try to mine crypto or host 4K cat video archives, we might gently suggest therapy. Also, limited stock. Like, actually limited. First come, first VPS’d.
+> 
+> **IMPORTANT NOTE**: :cat: Pixel cat mascot not included. But spiritually present.
 
-- 🐦 Discord: thenoname_gurl
-- 💌 Email: noname@onevm.eu
-
----
-
-> _“𝐼𝓉’𝓈 𝓃𝑜𝓉 𝒿𝓊𝓈𝓉 𝒶 𝑔𝒶𝓂𝑒. 𝐼𝓉’𝓈 𝒶 𝓈𝒶𝓃𝒹𝒷𝑜𝓍 𝒻𝑜𝓇 𝒾𝓂𝒶𝑔𝒾𝓃𝒶𝓉𝒾𝑜𝓃.”_
+-# Boring note: (but actually important)
+-# Eclipse Systems VPS Initiative is a volunteer-run, non-commercial hobby project operated by contributors. It is not a registered company or legal entity and has no employees.
